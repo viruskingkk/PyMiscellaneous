@@ -7,9 +7,6 @@ title = '''
            ____/                                            _|         
                                                                     
  DDos python script | Script used for testing ddos | Ddos attack     
- Author: ___T7hM1___                                                
- Github: http://github.com/t7hm1/pyddos                             
- Version:'''+version+''' 
 '''
 
 import os
