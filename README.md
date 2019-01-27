@@ -1,4 +1,4 @@
-關於PyMiscellaneous
+﻿關於PyMiscellaneous
 裡面保存的只是有關Python小程式或雜項
 
 1.AI_guess_number.py
@@ -12,3 +12,12 @@
 
 4.Guess_the_number.py
 AI出數字給人腦猜
+
+5.PyDdos.py
+DDOS小程序
+
+6.hackertools.py
+利用nmap為基底而成的hacker小工具
+
+7.Greedy.py
+基本漏洞偵測工具
